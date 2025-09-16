@@ -3,11 +3,6 @@
 Computer Science student at the University of Rhode Island, aspiring software engineer, and curious builder who loves turning ideas into real apps.
 
 ---
-# Hi, I’m Enmanuel Morillo 👋
-
-Computer Science student at the University of Rhode Island, aspiring software engineer, and curious builder who loves turning ideas into real apps.
-
----
 
 ### What I’m working on
 - Building small apps and components to sharpen my skills (Flutter, C++, and web).
